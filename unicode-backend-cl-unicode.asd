@@ -4,6 +4,7 @@
   :author "egao1980"
   :license "MIT"
   :depends-on ("unicode-protocol" "cl-unicode")
+  :properties (:cl-repo (:ci (:sources (("rove" :ql)))))
   :serial t
   :pathname "src"
   :components ((:file "package")
